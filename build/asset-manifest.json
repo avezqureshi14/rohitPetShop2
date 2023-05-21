@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3007b0e8.css",
+    "main.js": "/static/js/main.d7d1015a.js",
+    "static/media/hotelIng.jpg": "/static/media/hotelIng.1588d914bc427e2a0261.jpg",
+    "index.html": "/index.html",
+    "main.3007b0e8.css.map": "/static/css/main.3007b0e8.css.map",
+    "main.d7d1015a.js.map": "/static/js/main.d7d1015a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3007b0e8.css",
+    "static/js/main.d7d1015a.js"
+  ]
+}
